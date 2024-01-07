@@ -15,14 +15,17 @@ Required Plugin:
 
 Installation:
 1. Install fresh wordpress
-2. Go to Plugins install Elementor and Pro Elements
-3. Go to Appearance > Themes > Install Hello Elementor theme
-4. Go to Wordpress Settings > Permalinks and change pernalink structure to Post Name
-5. Download no-probs-elementor-kit.zip and do not unzip it. 
-6. Go to Elementor > tools > import/export kit > start import
-7. Extact noprobs-media.zip and upload all required files
-8. Go to Pages > Home > edit with elementor
-9. Replace and modify unloaded image:
+2. Download kit-plugins.zip then extract
+3. Go to Plugins install Elementor and Pro Elements from the extracted zip
+4. Go to Appearance > Themes > Install Hello Elementor theme
+5. Go to Wordpress Settings > Permalinks and change pernalink structure to Post Name
+6. Go to Elementor > tools > import/export kit > start import > choose no-probs-elementor-kit.zip
+7. Check all the option then click next
+8. If you find warning "JSON or ZIP file maybe unsafe" click continue
+9. if you find warning "Enable unfiltered file uploads" click enable
+10. Extact noprobs-media.zip and upload all required files
+11. Go to Pages > Home > edit with elementor
+12. Replace and modify unloaded image:
    - [x] Site Logo
    - [x] Favicons
    - [x] Hero image
@@ -35,8 +38,6 @@ Installation:
    - [x] Facebook image
    - [x] Scroll up image
 
- 
-    
 ## Demo
 
 Demo live sites https://noprobs.devvamaulana.com/
